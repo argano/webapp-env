@@ -18,6 +18,10 @@
   "bugs": {
     "url": "https://github.com/argano/webenv/issues"
   },
+  "files": [
+    "index.js",
+    "bin"
+  ],
   "homepage": "https://github.com/argano/webenv#readme",
   "dependencies": {
     "dotenv": "^16.0.0"
