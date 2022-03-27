@@ -3,7 +3,7 @@ const dotenv = require("dotenv");
 
 (() => {
   if (process.argv.length !== 4) {
-    console.error("webenv <input> <output>");
+    console.error("webapp-env <input> <output>");
     return;
   }
   const input = process.argv[2];

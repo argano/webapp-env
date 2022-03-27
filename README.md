@@ -1,7 +1,7 @@
-# webenv
+# webapp-env
 
 ```
-npm install webenv
+npm install webapp-env
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ B=bar
 2. Run command
 
 ```
-webenv .env vars.js
+webapp-env .env vars.js
  ```
 
 It generates the following js file.
@@ -38,7 +38,7 @@ You can import this file on your html file.
 
 ## Contribution
 
-1. Fork it ( http://github.com/argano/webenv )
+1. Fork it ( http://github.com/argano/webapp-env )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
